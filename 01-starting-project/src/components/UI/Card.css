@@ -1,0 +1,10 @@
+.CardContent{
+    background-color: white;
+    border-radius: 15px;
+    width: 55%;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+    margin: auto;
+    margin-top: 100px;
+}
